@@ -94,7 +94,7 @@ It includes:
 - Each sensor/motor is connected to its **dedicated labeled port** for organized wiring.
 
 <p align="center">
-  <img src="Photos/assets/wiring_diagram.png" alt="Wiring Diagram" width="70%">
+  <img src="Photos/assets/wiring_diagram.png" alt="Wiring Diagram" width="100%">
 </p>
 
 ---
