@@ -97,6 +97,6 @@ It includes:
 
 ## 🖼️ Images
 <p align="center">
-  <img src="assets/wiring_diagram.png" alt="Wiring Diagram" width="500">
+  <img src="Photos/assets/wiring_diagram.png" alt="Wiring Diagram" width="500">
 </p>
 
