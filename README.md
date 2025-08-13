@@ -93,10 +93,11 @@ It includes:
 - 🔵 **Blue cables** represent signal/power connections from the CVPro Controller to each device.
 - Each sensor/motor is connected to its **dedicated labeled port** for organized wiring.
 
----
-
-## 🖼️ Images
 <p align="center">
   <img src="Photos/assets/wiring_diagram.png" alt="Wiring Diagram" width="500">
 </p>
+
+---
+
+
 
