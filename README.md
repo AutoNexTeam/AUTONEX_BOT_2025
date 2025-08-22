@@ -1,6 +1,10 @@
 # 🤖 AutoNex Bot Documentation 2025
 AutoNex Bot is a 4-wheel robot DIY kit. We are participating in the WRO Future Engineers category for the year 2025.
 
+<p align="center">
+  <img src="Photos/assets/pfp.jpeg" alt="Wiring Diagram" width="50%">
+</p>
+
 ---
 
 ## 1️⃣ Hardware Provided
