@@ -11,7 +11,7 @@ AutoNex Bot is a 4-wheel robot DIY kit. We are participating in the WRO Future E
 
 1. **WRO Future Engineers 2025 – Open Challenge** : 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=euu-VfOtzoA)
 
-2. **WRO Future Engineers 2025 – Obstacle Challenge** : 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=g09N_ZWwgv4)
+2. **WRO Future Engineers 2025 – Obstacle Challenge** : 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=0B_U6UpkoQk)
 
 3. **WRO Future Engineers 2025 – AutoNex Team Discussion** : 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=cgD9jgNYa6U)
 
