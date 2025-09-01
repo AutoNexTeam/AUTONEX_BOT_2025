@@ -130,7 +130,6 @@ The **AutoNex Android Mobile App** is built on a **TensorFlow Lite (TFLite) obje
 
 ## 📩 Contact & Socials  
 
-- **Email:** [autonexwro2025@gmail.com](mailto:autonexwro2025@gmail.com)  
 - **YouTube Channel:** [Team AutoNex WRO](https://www.youtube.com/@TeamAutonexWRO)  
 
 
