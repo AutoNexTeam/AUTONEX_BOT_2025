@@ -77,7 +77,7 @@ The **AutoNex Android Mobile App** is built on a **TensorFlow Lite (TFLite) obje
 ---
 
 <p align="center">
-  <img src="Assets/Mobile_App_Output.png" alt="Wiring Diagram" width="50%">
+  <img src="Assets/Mobile_App_Output.png" alt="Wiring Diagram" width="70%">
 </p>
 
 ---
@@ -121,7 +121,7 @@ The **AutoNex Android Mobile App** is built on a **TensorFlow Lite (TFLite) obje
 ---
 
 <p align="center">
-  <img src="Assets/wiring_diagram.png" alt="Wiring Diagram" width="50%">
+  <img src="Assets/wiring_diagram.png" alt="Wiring Diagram" width="70%">
 </p>
 
 ---
