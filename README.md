@@ -63,15 +63,15 @@ Based on the **ESP32 microcontroller** for efficient sensor data processing.
 The **AutoNex Android Mobile App** is built on a **TensorFlow Lite (TFLite) object detection model**. In the WRO Future Engineers category, it detects sign boxes (red and green) and the parking wall to guide the bot’s navigation.  
 
 ### 🔴 Red Sign Box Detection  
-- Sends value **"1"** via C-to-C OTG cable.  
+- Sends value **"1"** via C-to-C OTG cable to controller.  
 - Bot executes a **right turn**.  
 
 ### 🟢 Green Sign Box Detection  
-- Sends value **"2"** via C-to-C OTG cable.  
+- Sends value **"2"** via C-to-C OTG cable to controller.  
 - Bot executes a **left turn**.  
 
 ### 🅿️ Parking Wall Detection  
-- Sends value **"3"** via C-to-C OTG cable.  
+- Sends value **"3"** via C-to-C OTG cable to controller.  
 - Bot performs the **parking maneuver**.  
 
 ---
