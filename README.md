@@ -18,7 +18,7 @@ The **AutoNex Bot** is a 4-wheel DIY robot kit designed for participation in the
 
 ---
 
-## 1️⃣ Hardware Provided  
+## 🛠️ Hardware Provided  
 
 ### 🖥️ CVPro Controller  
 Based on the **ESP32 microcontroller** for efficient sensor data processing.  
@@ -61,6 +61,8 @@ Based on the **ESP32 microcontroller** for efficient sensor data processing.
 ## 📱 AutoNex Mobile Application  
 
 The **AutoNex Android Mobile App** is built on a **TensorFlow Lite (TFLite) object detection model**. In the WRO Future Engineers category, it detects sign boxes (red and green) and the parking wall to guide the bot’s navigation.  
+
+### 📱 You can download the APK from this [Drive Link]() ⬇️
 
 ### 🔴 Red Sign Box Detection  
 - Sends value **"1"** via C-to-C OTG cable to controller.  
