@@ -3,7 +3,7 @@
 The **AutoNex Bot** is a 4-wheel DIY robot kit designed for participation in the **WRO Future Engineers Category 2025**.  
 
 <p align="center">
-  <img src="Assets/1.HEIC" alt="Wiring Diagram" width="20%">
+  <img src="Assets/1.png" alt="Bot" width="20%">
 </p>
 
 ---
@@ -79,7 +79,7 @@ The **AutoNex Android Mobile App** is built on a **TensorFlow Lite (TFLite) obje
 ---
 
 <p align="center">
-  <img src="Assets/Mobile_App_Output.png" alt="Wiring Diagram" width="70%">
+  <img src="Assets/Mobile_App_Output.png" alt="App Output" width="70%">
 </p>
 
 ---
