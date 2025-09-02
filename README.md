@@ -3,7 +3,7 @@
 The **AutoNex Bot** is a 4-wheel DIY robot kit designed for participation in the **WRO Future Engineers Category 2025**.  
 
 <p align="center">
-  <img src="Assets/1.png" alt="Bot" width="20%">
+  <img src="Assets/1.png" alt="Bot" width="70%">
 </p>
 
 ---
